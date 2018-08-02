@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#header {
+  font-size: 18px;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+a {
+  color: white;
+}
+
+#title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#IUE {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#description {
+  font-size: 14px;
+}
+
+#designNY {
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+#close {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
